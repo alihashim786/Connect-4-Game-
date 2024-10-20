@@ -1,6 +1,3 @@
-# Connect-4-Game
-That's a two player game  of connect 4 using c++ lamguage
-
 # Connect 4 - Two Player Game
 
 A simple implementation of the two-player game **Connect 4**, where players take turns dropping tokens into a board of customizable size. The game continues until one player wins by connecting four tokens in a row or the board is completely filled.
@@ -59,4 +56,9 @@ To learn more about the game mechanics and rules, visit the official Wikipedia p
 ---
 
 Enjoy the game and feel free to contribute to this project by submitting issues or pull requests!
+
+## <img src="https://img.icons8.com/ios/50/000000/email-open.png" width="20"/> Contact:
+If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
 
